@@ -9,26 +9,3 @@ In this notebook, it will implement fill-mask model to generate inputs and label
 
 With each transformer model, at least one example will be given in the loaded models to show its results meet our task requirements or not. 
 
-## Table of contents
-* [Installation](#installation)
-* [Implementation](#implementation) 
-   * [Fill-Mask](#fill-mask)
-       * [Explanation](#fm_explanation)   
-   * [Question Answering](#question_answering)
-       * [Explanation](#qa_explanation)
-   * [Summarization](#summarization)
-       * [Explanation](#sm_explanation)
-   * [Text Classification](#text_classification)
-       * [Explanation](#tc_explanation)
-   * [Text Generation](#text_generation)
-       * [Explanation](#tg_explanation)
-   * [Text2Text Generation](#text2text_generation)
-       * [Explanation](#t2t_explanation)
-   * [Token Classification](#token_classification)
-       * [Explanation](#tkc_explanation)   
-   * [Translation](#translation)
-       * [Explanation](#trans_explanation)
-   * [Zero-Shot Classification](#zero-shot_classification)   
-       * [Explanation](#zs_explanation)
-   * [Sentence Similarity](#sentence_similarity)   
-       * [Explanation](#ss_explanation)
